@@ -1,0 +1,16 @@
+﻿  ShapeMeshes.cpp
+C:\Users\jamot\Desktop\CS330Content\3DShapes\ShapeMeshes.cpp(548,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\jamot\Desktop\CS330Content\3DShapes\ShapeMeshes.cpp(1107,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\jamot\Desktop\CS330Content\3DShapes\ShapeMeshes.cpp(1666,11): warning C4101: 'v': unreferenced local variable
+C:\Users\jamot\Desktop\CS330Content\3DShapes\ShapeMeshes.cpp(1666,8): warning C4101: 'u': unreferenced local variable
+C:\Users\jamot\Desktop\CS330Content\3DShapes\ShapeMeshes.cpp(1943,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\jamot\Desktop\CS330Content\3DShapes\ShapeMeshes.cpp(2032,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jamot\Desktop\CS330Content\3DShapes\ShapeMeshes.cpp(2033,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jamot\Desktop\CS330Content\3DShapes\ShapeMeshes.cpp(2123,20): warning C4018: '<': signed/unsigned mismatch
+  ShaderManager.cpp
+  MainCode.cpp
+  SceneManager.cpp
+  ViewManager.cpp
+C:\Users\jamot\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(191,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\jamot\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
